@@ -4,6 +4,28 @@
 
 本项目不再维护！
 
+## 运行截图
+
+![项目结构](./Docs/assets/vs.png)
+
+### MSVC
+
+#### Win32 GUI
+
+![Win32](./Docs/assets/MSVC/vc_main.png)
+
+Win32 GUI版本使用Visual C++编写，支持Windows 7及以上版本。
+
+![Win32 Win7](./Docs/assets/MSVC/msvc-win7.png)
+
+#### CLI
+
+![CLI](./Docs/assets/MSVC/vc_cli.png)
+
+### WPF C#
+
+![WPF](./Docs/assets/DotNet/wpf_main.png)
+
 ## 技术栈
 
 - Microsoft Visual C++
